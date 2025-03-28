@@ -18,9 +18,14 @@
 * Implemented 2 view types Grid and List, user can view the books in the form of grid or list.
 * Added more info link on the books thumbnail, user can click on the book element and it will opens a new tab with book's info.
 * This Website is suitable for all the screen sizes, I have made it completely responsive using media queries.
+* And deployed the project on vercel to showcase as a proper website.
 
 ## Website UI
 * UI images- ![Image1](<WebUI1.png>) ![Image2](<WebUI2.png>)
 
 ## GitHub push SS
-* GitHub push Code SS- ![image3](<Github push SS.png>) 
+* GitHub push Code SS- ![image3](<Github push SS.png>)
+
+## Deployment SS
+* Deployed the website on vercel
+* SS- ![image4](<Deployment SS.png>)
